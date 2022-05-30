@@ -20,4 +20,3 @@ char* Ingreso::ingresarDatosE(char*msg){
 	dato[i]='\0';
 	return dato;
 }
-

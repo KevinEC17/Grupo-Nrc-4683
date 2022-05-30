@@ -1,10 +1,10 @@
 /*Universidad de las Fuerzas Armadas ESPE
-Título: Funcion Ingresar
+TÃ­tulo: Funcion Ingresar
 #Grupo
 Autor/es: Kevin Condor, Christopher Diaz
-Fecha de creacíon: 11/05/2022
-Fecha de modificación: 11/05/2022
-Ingeniería en Software
+Fecha de creacÃ­on: 11/05/2022
+Fecha de modificaciÃ³n: 11/05/2022
+IngenierÃ­a en Software
 Estructura de Datos*/
 
 #include <iostream>

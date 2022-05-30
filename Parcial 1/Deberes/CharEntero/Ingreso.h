@@ -8,4 +8,3 @@ class Ingreso{
 	public:
 		char* ingresarDatosE(char*);
 };
-
